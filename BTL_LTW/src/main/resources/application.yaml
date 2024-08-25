@@ -18,6 +18,4 @@ spring:
         show_sql: false
 #        format_sql: true
 
-# jwt:
-  # signerKey: "4CIrkkE8snlW40XyWBQQiH7Lu9GUsIbZqFSPq5m94xRji99WK5Pc0PfLjMnXcagm"
 
